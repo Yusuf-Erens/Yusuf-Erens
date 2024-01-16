@@ -23,10 +23,10 @@
 <p align="left">
 <a href="https://twitter.com/polystudiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="polystudiodev" height="24" width="32" /></a>
 <a href="https://instagram.com/polystudio.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="polystudio.dev" height="24" width="32" /></a>
-<a href="https://www.youtube.com/PolyStudioDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="polystudiodev" height="24" width="32" /></a>
+<a href="https://www.youtube.com/channel/PolyStudioDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="polystudiodev" height="24" width="32" /></a>
 <a href="https://discord.gg/https://discord.gg/vgs4hjwK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/vgs4hjwK" height="24" width="32" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
 Your support means a lot to me – thank you! ☕️✨
-<p><a href="https://www.buymeacoffee.com/PolyStudioDev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="PolyStudioDev" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/polystudios"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="PolyStudioDev" /></a></p><br><br>
