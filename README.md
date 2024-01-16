@@ -1,9 +1,6 @@
-I’m Yusuf, a high school student with a passion for game development and web development. Eager to learn and constantly improve. 🚀
-
-- 🌱 I’m currently learning Javascript 
-- 📫 How to reach me: polystudiodev@gmail.com 
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yusuf-erens&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf-erens" /> </p>
+<h2>I’m Yusuf, a high school student with a passion for game development and web development. Eager to learn and constantly improve. 🚀</h2>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
