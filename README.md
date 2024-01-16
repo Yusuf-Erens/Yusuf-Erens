@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/polystudiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="polystudiodev" height="24" width="32" /></a>
 <a href="https://instagram.com/polystudio.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="polystudio.dev" height="24" width="32" /></a>
-<a href="https://www.youtube.com/PolyStudioDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="polystudiodev" height="24" width="32" /></a>
+<a href="https://www.youtube.com/@PolyStudioDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="polystudiodev" height="24" width="32" /></a>
 <a href="https://discord.gg/https://discord.gg/vgs4hjwK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/vgs4hjwK" height="24" width="32" /></a>
 </p>
 
